@@ -1,0 +1,27 @@
+.header{
+    height: 80px;
+    background-color: #0000ff85;
+}
+.header-conteiner{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.header-log{
+    width: 143px;
+}
+.header-log img{
+    max-width: 100%;
+}
+.header-menu{
+    display: flex;
+    align-items: center;
+}
+.header-menu a{
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: 500;
+    font-family: arial;
+}

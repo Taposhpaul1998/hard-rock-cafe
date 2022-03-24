@@ -1,0 +1,23 @@
+.search-conteiner{
+    width: 60%;
+    margin: auto;
+    margin-top: 20px;
+    position: relative;
+}
+input#inputFild {
+    width: 740px;
+    box-shadow: 0px 0px 10px #7199e1b8;
+    padding: 15px;
+    border-radius: 23px;
+    border: none;
+}
+.search-box{
+    padding: 14px 27px;
+    border-radius: 25px;
+    background-color: #ff7777;
+    border: none;
+    color: white;
+    position: absolute;
+    right: 17px;
+    font-size: 15px;
+}
